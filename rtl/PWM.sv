@@ -1,26 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 05/24/2026 12:38:42 PM
-// Design Name: 
-// Module Name: PWM
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-//limit period = pana unde numara counterul
-//limit duty = pana la ce valoare iesirea ramane HIGH
 module PWM(
     input logic clk,
     input logic rst,
